@@ -44,13 +44,13 @@ A continuación, se presentan capturas del sistema. (Asegúrate de reemplazar lo
 
 Puedes ver un video explicativo sobre la estructura del sistema en el siguiente enlace:
 
-[![Video de Estructura](https://i.imgur.com/ejemplo_thumbnail.png)](https://www.youtube.com/watch?v=ejemplo)
+[![Video de Estructura](https://youtu.be/kf4sVNNb_8Q)
 
 ## Tecnologías Utilizadas
 
-- **Backend**: .NET Core.
+- **Backend**: PHP.
 - **Frontend**: HTML, CSS, JavaScript.
-- **Base de Datos**: SQL Server.
+- **Base de Datos**: SQL PHPMyadmin - MySQL.
 - **Control de Versiones**: GitHub.
 
 ## Instalación
