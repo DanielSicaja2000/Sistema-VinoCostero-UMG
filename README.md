@@ -46,6 +46,12 @@ Puedes ver un video explicativo sobre la estructura del sistema en el siguiente 
 
 Video de Estructura https://youtu.be/kf4sVNNb_8Q
 
+## Documentación
+https://drive.google.com/file/d/1HtONCcRxdAu6wvshye4MFWvw03HM2ao3/view?usp=sharing
+
+## Bitacora
+https://docs.google.com/spreadsheets/d/1ptCNL4ua3IJk-N3rpPY4Fjh1d8nnix2D/edit?usp=sharing&ouid=102839615593005553525&rtpof=true&sd=true
+
 ## Tecnologías Utilizadas
 
 - **Backend**: PHP.
