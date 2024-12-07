@@ -44,7 +44,7 @@ A continuación, se presentan capturas del sistema. (Asegúrate de reemplazar lo
 
 Puedes ver un video explicativo sobre la estructura del sistema en el siguiente enlace:
 
-[![Video de Estructura](https://youtu.be/kf4sVNNb_8Q)
+[![Video de Estructura] https://youtu.be/kf4sVNNb_8Q
 
 ## Tecnologías Utilizadas
 
