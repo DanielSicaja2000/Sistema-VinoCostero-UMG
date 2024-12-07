@@ -37,7 +37,7 @@ A continuación, se presentan capturas del sistema. (Asegúrate de reemplazar lo
 ![Gestión de Inventario](https://i.imgur.com/FFsJRrH.png) 
 *Figura 2: Módulo de gestión de inventario.*
 
-![Registro de clientes](https://imgur.com/A6zkqhE)
+![Registro de clientes](https://i.imgur.com/A6zkqhE.png)
 *Figura 3: Modulo de registro de clientes.*
 
 ## Video de la Estructura del Sistema
