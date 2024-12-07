@@ -33,8 +33,12 @@ A continuación, se presentan capturas del sistema. (Asegúrate de reemplazar lo
 ![Panel de Control](https://i.imgur.com/i4AhM7C.png)
 *Figura 1: Panel de control principal.*
 
+
 ![Gestión de Inventario](https://i.imgur.com/FFsJRrH.png) 
 *Figura 2: Módulo de gestión de inventario.*
+
+![Registro de clientes](https://imgur.com/A6zkqhE)
+*Figura 3: Modulo de registro de clientes.*
 
 ## Video de la Estructura del Sistema
 
