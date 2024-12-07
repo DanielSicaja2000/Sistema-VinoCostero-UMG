@@ -30,7 +30,7 @@ El sistema incluye las siguientes funcionalidades principales:
 
 A continuación, se presentan capturas del sistema. (Asegúrate de reemplazar los enlaces de ejemplo con tus propios enlaces de Imgur):
 
-![Panel de Control]([https://i.imgur.com/ejemplo1.png](https://imgur.com/bh6nzOi))  
+![Panel de Control](https://imgur.com/bh6nzOi)  
 *Figura 1: Panel de control principal.*
 
 ![Gestión de Inventario](https://i.imgur.com/FFsJRrH.png) 
